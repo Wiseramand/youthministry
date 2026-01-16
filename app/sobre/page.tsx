@@ -30,7 +30,7 @@ const leadership = [
   {
     name: "Pastor Chris Oyakhilome",
     role: "Fundador - Christ Embassy",
-    image: "/pastor-leader-portrait-professional.jpg",
+    image: "/images/fundador.jpg",
   },
   {
     name: "Pastor Regional",
@@ -68,7 +68,7 @@ export default function SobrePage() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="relative">
                 <Image
-                  src="/church-youth-gathering-worship.jpg"
+                  src="/images/nossa-historia.png"
                   alt="Nossa história"
                   width={600}
                   height={400}
